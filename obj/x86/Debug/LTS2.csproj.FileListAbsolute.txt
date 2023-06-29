@@ -1,0 +1,8 @@
+c:\users\start\documents\visual studio 2010\Projects\LTS2\LTS2\bin\Debug\LTS2.exe
+c:\users\start\documents\visual studio 2010\Projects\LTS2\LTS2\bin\Debug\LTS2.pdb
+c:\users\start\documents\visual studio 2010\Projects\LTS2\LTS2\obj\x86\Debug\LTS2.AppForm.resources
+c:\users\start\documents\visual studio 2010\Projects\LTS2\LTS2\obj\x86\Debug\LTS2.Properties.Resources.resources
+c:\users\start\documents\visual studio 2010\Projects\LTS2\LTS2\obj\x86\Debug\LTS2.csproj.GenerateResource.Cache
+c:\users\start\documents\visual studio 2010\Projects\LTS2\LTS2\obj\x86\Debug\LTS2.exe
+c:\users\start\documents\visual studio 2010\Projects\LTS2\LTS2\obj\x86\Debug\LTS2.pdb
+C:\Users\START\documents\visual studio 2010\Projects\LTS2\LTS2\obj\x86\Debug\LTS2.Forms.FormWarehouse.resources
